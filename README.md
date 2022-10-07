@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### BaekJoon
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=noori1050)](https://solved.ac/noori1050)
+
 #### GITHUB COMMIT 🐍
 ![snake gif](https://github.com/nohnoori/nohnoori/blob/output/github-contribution-grid-snake.svg)
