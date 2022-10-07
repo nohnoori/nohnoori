@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 #### BaekJoon
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=noori1050)](https://solved.ac/noori1050)
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=noori105066)](https://solved.ac/noori105066)
 
 #### GITHUB COMMIT 🐍
 ![snake gif](https://github.com/nohnoori/nohnoori/blob/output/github-contribution-grid-snake.svg)
